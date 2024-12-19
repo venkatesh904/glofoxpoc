@@ -31,8 +31,8 @@ The application follows a **Layered Architecture**:
    - Represents domain objects like `StudioClass`, `Booking`, and `BookingRequest`.
 
 ## Technologies Used
-- **Java 11**
-- **Spring Boot** (2.x)
+- **Java 17**
+- **Spring Boot** (3.x)
 - **JUnit 5** for testing
 - **Maven** for dependency management
 
